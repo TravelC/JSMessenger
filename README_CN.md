@@ -1,4 +1,7 @@
 # JSMessenger v0.1
+![Language](https://img.shields.io/badge/language-objc-orange.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 JavaScript 调用 Native 方法的轻量库
 
 # 概览
