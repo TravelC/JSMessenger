@@ -1,7 +1,10 @@
-🇨🇳[中文介绍](https://github.com/cyanzhong/JSMessenger/blob/master/README_CN.md)
-
 # JSMessenger v0.1
+![Language](https://img.shields.io/badge/language-objc-orange.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 A lightweight library let you call native methods from WebView directly
+
+🇨🇳[中文介绍](https://github.com/cyanzhong/JSMessenger/blob/master/README_CN.md)
 
 # Overview
 With JSMessenger, you can call native methods and get response from WebView directly, without set any callback functions.
